@@ -1,13 +1,13 @@
-# Snowstorm
+# Kuyisus
 
 Custom editor for Minecraft Bedrock Edition particle files. Available as a web app and VSCode Extension:
-* **Web App:** [snowstorm.app](https://snowstorm.app/)
+* **Web App:** [kuyisus.app](https://kuyisus.app/)
 * **VSCode Extension:** [Snowstorm - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JannisX11.snowstorm)
 
 
 ## Interface
 
-![Snowstorm interface screenshot](https://snowstorm.app/content/interface.png)
+![Snowstorm interface screenshot](https://kuyisus.app/content/interface.png)
 
 
 ## Development
